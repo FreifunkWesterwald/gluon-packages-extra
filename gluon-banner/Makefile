@@ -13,8 +13,8 @@ define Package/gluon-banner
   TITLE:=Banner file replacement
   DEPENDS:=+gluon-core
   MAINTAINER:=Freifunk Westerwald
-  URL:=https://github.com/FreifunkWesterwald/packages
-  SOURCE:=https://github.com/FreifunkWesterwald/packages.git
+  URL:=https://github.com/FreifunkWesterwald/gluon-packages-extra/
+  SOURCE:=https://github.com/FreifunkWesterwald/gluon-packages-extra.git
 endef
 
 define Package/gluon-banner/description
